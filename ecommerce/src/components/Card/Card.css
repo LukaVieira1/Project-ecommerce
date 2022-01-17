@@ -6,6 +6,9 @@
 }
 
 .card-star {
+  cursor: pointer;
+  background: #e5e5e5;
+  border: none;
   margin-right: 26px;
   margin-top: 45px;
   margin-left: 306px;

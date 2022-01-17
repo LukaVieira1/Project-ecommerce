@@ -1,0 +1,30 @@
+.title {
+  font-weight: 700;
+}
+
+.title-storeName {
+  margin: 35px 0 0 59px;
+  font-size: 36px;
+  line-height: 54px;
+}
+
+.title-discountText {
+  margin: 0;
+  font-size: 22px;
+  line-height: 33px;
+  color: white;
+  text-align: center;
+}
+.title-results {
+  font-size: 30px;
+  line-height: 45px;
+  margin: 17px 0 8px 72px;
+}
+
+.blackLine {
+  padding-top: 18px;
+  padding-bottom: 18px;
+  margin: 0;
+  width: 100%;
+  background-color: black;
+}

@@ -6,6 +6,7 @@ const GetData = () => {
   useEffect(() => {
     const request = async () => {
       const { data } = await client.from("shoe").select("*");
+      console.log(data);
       setData(data);
     };
     request();
